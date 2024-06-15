@@ -30,6 +30,9 @@ Una vez que hayas configurado tu bot y esté en funcionamiento, puedes interactu
 - `/custom`: Realiza una acción personalizada (aquí es donde puedes añadir tus características especiales).
 - `/cancel`: Cancela la conversación actual.
 
+## Resultado
+![Descripción de la imagen](https://github.com/andreshurtadoo/Chatbot-Telegram/blob/main/img.jpg)
+
 ## Contribuciones
 
 Si deseas contribuir a AlphaTauri, no dudes en hacer mejoras o añadir nuevas características. Solo crea un pull request con tus cambios.
