@@ -33,9 +33,9 @@ Una vez que hayas configurado tu bot y esté en funcionamiento, puedes interactu
 ## Resultado
 ![Descripción de la imagen](https://github.com/andreshurtadoo/Chatbot-Telegram/blob/main/img.jpg)
 
-## Contribuciones
+## Chatbot para una Charcuteria
 
-Si deseas contribuir a AlphaTauri, no dudes en hacer mejoras o añadir nuevas características. Solo crea un pull request con tus cambios.
+Chatbot ejecutado en la web, con el que puedes conversar para hacer tus pedidos y hacer consultas
 
 ## Desarrolladores
 
